@@ -4,7 +4,7 @@
 
 <p align="left">
 Orgs é um app que simula um e-commerce de produtos orgânicos.
-O aplicativo foi desenvolvido juntamente com as aulas da Formação de Android com Kotlin, da Alura. No desenvolvimento dele são abordado diversos tópicos essenciais para a criação de aplicativos Android.
+O aplicativo foi desenvolvido juntamente com as aulas da Formação de Android com Kotlin, da Alura. No desenvolvimento dele são abordados diversos tópicos essenciais para a criação de aplicativos Android.
 
 Algumas das dependências utilizadas foram: 
 - Room: Onde foi trabalhado o armazenamento e manipulação de dados com o SQLite.
